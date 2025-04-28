@@ -1,1 +1,1 @@
-# Multi-Interest-Recommendation-A-Survey
+# Multi-Interest Recommendation: A Survey
