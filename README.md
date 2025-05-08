@@ -1,4 +1,36 @@
-# Multi-Interest-Recommendation-A-Survey
+<div align="center"><h2>Multi-Interest Recommendation: A Survey</h2></div>
+
+<p align="center">
+    <!-- arxiv badges -->
+    <a href="">
+        <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
+    </a>
+    <!-- Github -->
+    <a href="https://github.com/WHUIR/Multi-Interest-Recommendation-A-Survey">
+        <img src="https://img.shields.io/badge/Code-black?style=flat&logo=github">
+    </a>
+</p>
+
+<div align="center">
+    <p>
+        <a href="https://scholar.google.com/citations?user=wLnpkFkAAAAJ&hl">Zihao Li</a><sup>1</sup>, 
+        <a href="https://scholar.google.com/citations?user=R4TEq6sAAAAJ&hl">Qiang Chen</a><sup>2</sup>, 
+        <a href="https://scholar.google.com/citations?user=wyKGVKUAAAAJ&hl">Aixin Sun</a><sup>3</sup>, <br>
+        <a href="https://scholar.google.com/citations?user=p4RNNCQAAAAJ&hl=en">Chenliang Li</a><sup>1*</sup>, 
+    </p>
+    <p>
+        <sup>1</sup><a href="https://en.whu.edu.cn/">Wuhan University</a> <br>
+        <sup>2</sup><a href="https://www.tencent.net.cn/">Wechat Search, Tencent Inc.</a> <br>
+        <sup>3</sup><a href="https://www.ntu.edu.sg/">Nanyang Technological University, Singapore</a>
+    </p>
+</div>
+
+<div align="center"><small><sup>*</sup>Corresponding author: Chenliang Li (<a href="cllee@whu.edu.cn">cllee@whu.edu.cn</a>).</small></div>
+
+>
+> 🌟 **Star Us!** If you find our work helpful, please consider starring our GitHub to stay updated with the latest in multi-interest recommendation!🌟
+
+## 🔗 Introduction
 
 <div align="center">
 <img src="imgs/MultiRec.png" border="0" width=650px/>
@@ -11,6 +43,8 @@
 </div>
 
 📚 Based on the survey paper "[Multi-Interest Recommendation: A Survey]()", this repository contains a curated list of papers on **multi-interest recommendation** published in top venues. We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
+
+## 🗂️ Classification of Multi-Interest Recommendation
 
 *Continuously updating!*
 
@@ -53,7 +87,7 @@
   - [Citation](#citation)
 -----
 
-## Representative Works
+## 🎯 Representative Works
 
 - (MIND 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814) [![Citation Badge](https://img.shields.io/badge/Cited_by-400+-blue)](https://scholar.google.com/scholar?cites=1927469798043210081&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (DMIN 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092) [![Citation Badge](https://img.shields.io/badge/Cited_by-100+-blue)](https://scholar.google.com/scholar?cites=11955465070065295505&as_sdt=2005&sciodt=0,5&hl=en-EN)
@@ -69,7 +103,7 @@
 
 ---
 
-## Taxonomy
+## 📜 Taxonomy
 
 ### Tasks [[Back to Top](#multi-interest-recommendation-a-survey)]
 
@@ -255,9 +289,9 @@
 
 
 <details>
-<summary>⏳Research Papers Sorted by Published Year</summary>
+<summary> Research Papers Sorted by Published Year</summary>
 
-## Research Papers Sorted by Published Year
+## ⏳ Research Papers Sorted by Published Year
 
 ### Year 2025 [[Back to Top](#multi-interest-recommendation-a-survey)]
 
