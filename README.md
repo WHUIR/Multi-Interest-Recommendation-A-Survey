@@ -30,6 +30,8 @@
 ## Taxonomy
 
 
+<details>
+<summary>⏳Research Papers Sorted by Published Time</summary>
 
 ## Research Papers Sorted by Published Year
 
@@ -109,6 +111,11 @@
 
 
 ### Year 2020 & Before [[Back to Top](#multi-interest-recommendation-a-survey)]
+
+
+</details>
+
+---
 
 ## Citation
 ```
