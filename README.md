@@ -17,8 +17,8 @@
 🤗 Welcome to update this repository by launching an issue or a pull request if you find any missing resources or want to include some new papers.
 
 - [Multi-Interest-Recommendation](#multi-interest-recommendation-a-survey)
+  - [Representative Works](#representative-works)
   - [Taxonomy](#taxonomy)
-  - [Citation](#citation)
   - [Research Papers Sorted by Published Year](#research-papers-sorted-by-published-year)
     - [Year 2025](#year-2025-back-to-top)
     - [Year 2024](#year-2024-back-to-top)
@@ -26,9 +26,20 @@
     - [Year 2022](#year-2022-back-to-top)
     - [Year 2021](#year-2021-back-to-top)
     - [Year 2020 \& Before](#year-2020--before-back-to-top)
+  - [Citation](#citation)
 -----
+
+## Representative Works
+
+- (MIND 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814) [![Citation Badge](https://img.shields.io/badge/Cited_by-1.2k+-blue)](https://scholar.google.com/scholar?cites=1927469798043210081&as_sdt=2005&sciodt=0,5&hl=zh-CN)
+
+
 ## Taxonomy
 
+
+
+
+---
 
 <details>
 <summary>⏳Research Papers Sorted by Published Year</summary>
@@ -109,9 +120,19 @@
 
 ### Year 2021 [[Back to Top](#multi-interest-recommendation-a-survey)]
 
+- (TOIS 2021) **Multi-interest Diversification for End-to-end Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3475768)
+- (WSDM 2021) **Diverse User Preference Elicitation with Multi-Armed Bandits** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437963.3441786)
+- (WSDM 2021) **Sparse-Interest Network for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437963.3441811)
+- (CIKM 2021) **Popularity-Enhanced News Recommendation with Multi-View Interest Representation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482462)
+- (ACL 2021) **HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation** [[Paper]](https://aclanthology.org/2021.acl-long.423/)
+- (WWW 2021) **Reinforcement Recommendation with User Multi-aspect Preference** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449846)
+- (PKDD 2021) **Modeling Multi-factor and Multi-faceted Preferences over Sequential Networks for Next Item Recommendation** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_32)
 
 ### Year 2020 & Before [[Back to Top](#multi-interest-recommendation-a-survey)]
 
+- (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
+- (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
+- 
 
 </details>
 
