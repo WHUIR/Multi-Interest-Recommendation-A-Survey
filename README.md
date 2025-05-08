@@ -103,6 +103,13 @@
 - (TKDD 2022) **Graph Neural News Recommendation with User Existing and Potential Interest Modeling** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511708)
 - (ICDE 2022) **MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835441)
 
+---
+
+### Year 2021 [[Back to Top](#multi-interest-recommendation-a-survey)]
+
+
+### Year 2020 & Before [[Back to Top](#multi-interest-recommendation-a-survey)]
+
 ## Citation
 ```
 
