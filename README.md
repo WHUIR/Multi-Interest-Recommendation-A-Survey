@@ -31,7 +31,17 @@
 
 ## Representative Works
 
-- (MIND 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814) [![Citation Badge](https://img.shields.io/badge/Cited_by-1.2k+-blue)](https://scholar.google.com/scholar?cites=1927469798043210081&as_sdt=2005&sciodt=0,5&hl=zh-CN)
+- (MIND 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814) [![Citation Badge](https://img.shields.io/badge/Cited_by-400+-blue)](https://scholar.google.com/scholar?cites=1927469798043210081&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (DMIN 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092) [![Citation Badge](https://img.shields.io/badge/Cited_by-100+-blue)](https://scholar.google.com/scholar?cites=11955465070065295505&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (ComiRec 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344) [![Citation Badge](https://img.shields.io/badge/Cited_by-300+-blue)](https://scholar.google.com/scholar?cites=8119337510944134065&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (SINE 2021) **Sparse-Interest Network for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437963.3441811) [![Citation Badge](https://img.shields.io/badge/Cited_by-150+-blue)](https://scholar.google.com/scholar?cites=14061988584498080015&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (PIMI 2021) **Exploring Periodicity and Interactivity in Multi-Interest Framework for Sequential Recommendation** [[Paper]](https://arxiv.org/abs/2106.04415) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=14878467485829787374&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (MINER 2022) **MINER: Multi-Interest Matching Network for News Recommendation** [[Paper]](https://aclanthology.org/2022.findings-acl.29.pdf) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=15374214394580461796&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (MIPL 2022) **Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512088) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=7501038726479800683&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (Re4 2022) **Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512094) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=11111270919062838766&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (MGNM 2022) **When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532081) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=15387517680006520990&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (IESRec 2023) **Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583366) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=631703805197471410&as_sdt=2005&sciodt=0,5&hl=en-EN)
+
 
 
 ## Taxonomy
@@ -131,6 +141,7 @@
 ### Year 2020 & Before [[Back to Top](#multi-interest-recommendation-a-survey)]
 
 - (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
+- (CIKM 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092)
 - (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
 - 
 
