@@ -72,6 +72,7 @@
 ## Taxonomy
 
 ### Tasks [[Back to Top](#multi-interest-recommendation-a-survey)]
+
 #### 🚩 Sequential Recommendation
 
 - (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
