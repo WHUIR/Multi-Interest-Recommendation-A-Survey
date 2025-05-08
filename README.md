@@ -10,7 +10,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/WHUIR/Multi-Interest-Recommendation-A-Survey"/></a>
 </div>
 
-📚 This repository contains a curated list of papers on **multi-interest recommendation**, based on the survey paper "[Multi-Interest Recommendation: A Survey]()". We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
+📚 Based on the survey paper "[Multi-Interest Recommendation: A Survey]()", this repository contains a curated list of papers on **multi-interest recommendation** published in top venues. We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
 
 *Continuously updating!*
 
@@ -31,17 +31,53 @@
 
 
 
-## Research Papers Sorted by Published Time
+## Research Papers Sorted by Published Year
 
 ### Year 2025 [[Back to Top](#multi-interest-recommendation-a-survey)]
 
 - (TOIS 2025) **HORAE: Temporal Multi-Interest Pre-training for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3727645)
 - (TPAMI 2025) **Prompt-based multi-interest learning method for sequential recommendation** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10974641/)
 - (AAAI 2025) **Dynamic Multi-Interest Graph Neural Network for Session-Based Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33343)
+- (AAAI 2025) **Auto Encoding Neural Process for Multi-interest Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33293)
 
 ---
 
 ### Year 2024 [[Back to Top](#multi-interest-recommendation-a-survey)]
+
+- (KDD 2024) **Disentangled Multi-interest Representation Learning for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671800)
+- (ICDE 2024) **When Multi-Behavior Meets Multi-Interest: Multi-Behavior Sequential Recommendation with Multi-Interest Self-Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10597701)
+- (WSDM 2024) **Attribute Simulation for Item Embedding Enhancement in Multi-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3616855.3635841)
+- (MM 2024) **Diversity Matters: User-Centric Multi-Interest Learning for Conversational Movie Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680909)
+- (WWW 2024) **Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645662)
+- (WWW 2024) **RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589335.3651554)
+- (TORS 2024) **Multi-Interest Multi-Round Conversational Recommendation System with Fuzzy Feedback Based User Simulator** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3616379)
+- (TNNLS 2024) **Enhancing Session-Based Recommendation With Multi-Interest Hyperbolic Representation Networks** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10769057/)
+- (EMNLP 2024) **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.emnlp-main.86/)
+- (ICME 2024) **Orthogonal Hyper-category Guided Multi-interest Elicitation for Micro-video Matching** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10687880/)
+- (NeurIPS 2024) **Density-based User Representation using Gaussian Process Regression for Multi-interest Personalized Retrieval** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5e28c085a8cd881a4c7e5cf13391aac5-Abstract-Conference.html)
+- (AAAI 2024) **Multi-Domain Recommendation to Attract Users via Domain Preference Modeling** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28702)
+- (ACL 2024)  **HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.luhme-long.138/)
+
+---
+
+### Year 2023 [[Back to Top](#multi-interest-recommendation-a-survey)]
+
+- (TOIS 2023) **Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3606369)
+- (TOIS 2023) **Contrastive Multi-view Interest Learning for Cross-domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3632402)
+- (ICDE 2023) **Incremental Learning for Multi-Interest Sequential Recommendation** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10184671/)
+- (WWW 2023) **Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583366)
+- (WWW 2023) **Multi-interest Recommendation on Shopping for Others** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543873.3587341)
+- (WWW 2023) **Dual-interest Factorization-heads Atention for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583278)
+- (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181)
+- (TKDD 2023) **Modeling Cross-session Information with Multi-interest Graph Neural Networks for the Next-item Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3532192)
+- (RecSys 2023) **Co-occurrence Embedding Enhancement for Long-tail Problem in Multi-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608835)
+- (RecSys 2023) **Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608766) 
+- (KDD 2023) **M5: Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599863)
+- (SIGIR 2023) **M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591720)
+- (SIGIR 2023) **Towards Multi-Interest Pre-training with Sparse Capsule Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591778)
+- (MM 2023) **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611967)
+- (WSDM 2023) **IDNP: Interest Dynamics Modeling using Generative Neural Processes for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570373)
+- (CIKM 2023) **Disentangled Interest importance aware Knowledge Graph Neural Network for Fund Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583780.3614846)
 
 ## Citation
 ```
