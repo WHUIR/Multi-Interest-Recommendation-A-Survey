@@ -25,6 +25,11 @@
       - [Session-Based Recommendation](#session-based-recommendation)
       - [Conversation Recommendation](#conversation-recommendation)
       - [Cross-Domain Recommendation](#cross-domain-recommnedation)
+    - [Methodology (Multi-Interest Extractor + Aggregartor)](#methodology-multi-interest-extractor-aggregrator-back-to-top)
+      - [Dynamic Routing + Representation Aggregation](#dynamic-routing-representation-aggregation)
+      - [Dynamic Routing + Recommendation Aggregation](#dynamic-routing-recommendation-aggregation)
+      - [Soft Attention + Representation Aggregation](#soft-attention-representation-aggregation)
+      - [Soft Attention + Recommendation Aggregation](#soft-attention-recommendation-aggregation)
     - [Aspects of Multi-Interest Modeling](#aspects-of-multi-interest-modeling--back-to-top)
       - [Implicit Modeling](#implicit-modeling)
       - [Explicit Modeling](#explicit-modeling)
@@ -125,6 +130,45 @@
 - (WWW 2023) **Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583366)
 - (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181)
 - (TOIS 2023) **Contrastive Multi-view Interest Learning for Cross-domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3632402)
+
+---
+
+### Methodology (Multi-Interest Extractor + Aggregartor) [[Back to Top](#multi-interest-recommendation-a-survey)]
+#### 🚩 Dynamic Routing + Representation Aggregation
+
+- (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
+- (TOIS 2021) **Multi-interest Diversification for End-to-end Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3475768)
+- (SIGIR 2023) **M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591720)
+
+---
+
+#### 🚩 Dynamic Routing + Recommendation Aggregation
+
+- (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
+- (ACL 2022) **MINER: Multi-Interest Matching Network for News Recommendation** [[Paper]](https://aclanthology.org/2022.findings-acl.29.pdf)
+- (SIGIR 2022) **User-Aware Multi-Interest Learning for Candidate Matching in Recommenders** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532073)
+- (SIGIR 2022) **When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532081)
+- (RecSys 2023) **Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608766)
+- (KDD 2024) **Disentangled Multi-interest Representation Learning for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671800)
+
+---
+
+#### 🚩 Soft Attention + Representation Aggregation
+
+- (CIKM 2021) **Popularity-Enhanced News Recommendation with Multi-View Interest Representation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482462)
+- (CIKM 2022) **A Multi-Interest Evolution Story: Applying Psychology in Query-based Recommendation for Inferring Customer Intention** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557221)
+- (SIGIR 2023) **M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591720)
+- (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181)
+
+---
+
+#### 🚩 Soft Attention + Recommendation Aggregation
+
+- (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
+- (SIGIR 2022) **Improving Micro-video Recommendation via Contrastive Multiple Interests** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531861)
+- (ACL 2022) **MINER: Multi-Interest Matching Network for News Recommendation** [[Paper]](https://aclanthology.org/2022.findings-acl.29.pdf)
+- (CIKM 2022) **Target Interest Distillation for Multi-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557464)
+- (TKDD 2023) **Modeling Cross-session Information with Multi-interest Graph Neural Networks for the Next-item Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3532192)
 
 ---
 
