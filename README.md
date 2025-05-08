@@ -24,10 +24,9 @@
       - [Explicit Modeling](#explicit-modeling)
         - [Item Oriented](#item-oriented)
           - [Review](#review)
-          - [Category](#category)
           - [Modality](#modality)
           - [Domain](#domain)
-          - [Others](#others) 
+          - [Attributes](#attributes) 
         - [User Oriented](#user-oriented)
           - [Spatial](#spatial)
           - [Temporal](#temporal)
@@ -47,6 +46,7 @@
 
 - (MIND 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814) [![Citation Badge](https://img.shields.io/badge/Cited_by-400+-blue)](https://scholar.google.com/scholar?cites=1927469798043210081&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (DMIN 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092) [![Citation Badge](https://img.shields.io/badge/Cited_by-100+-blue)](https://scholar.google.com/scholar?cites=11955465070065295505&as_sdt=2005&sciodt=0,5&hl=en-EN)
+- (MTIN 2020) **What Aspect Do You Like: Multi-scale Time-aware User Interest Modeling for Micro-video Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413653) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=18063247307442121635&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (ComiRec 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344) [![Citation Badge](https://img.shields.io/badge/Cited_by-300+-blue)](https://scholar.google.com/scholar?cites=8119337510944134065&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (SINE 2021) **Sparse-Interest Network for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437963.3441811) [![Citation Badge](https://img.shields.io/badge/Cited_by-150+-blue)](https://scholar.google.com/scholar?cites=14061988584498080015&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (PIMI 2021) **Exploring Periodicity and Interactivity in Multi-Interest Framework for Sequential Recommendation** [[Paper]](https://arxiv.org/abs/2106.04415) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=14878467485829787374&as_sdt=2005&sciodt=0,5&hl=en-EN)
@@ -62,11 +62,84 @@
 
 ### Aspects of Multi-Interest Modeling [[Back to Top](#multi-interest-recommendation-a-survey)]
 
-#### Implicit Modeling
+#### 🚩 Implicit Modeling
 
-
+- (CIKM 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092)
+- (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
+- (SIGIR 2020) **MRIF: Multi-resolution Interest Fusion for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401240)
+- (CIKM 2022) **Target Interest Distillation for Multi-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557464)
+- (SIGIR 2022) **Improving Micro-video Recommendation via Contrastive Multiple Interests** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531861)
+- (KDD 2024) **Disentangled Multi-interest Representation Learning for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671800)
 
 ---
+
+#### Explicit Modeling
+##### Item Oriented
+###### 🚩 Review
+
+- (AAAI 2024) **FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28794)
+- (MM 2024) **Diversity Matters: User-Centric Multi-Interest Learning for Conversational Movie Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680909)
+- (ACL 2024)  **HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.luhme-long.138/)
+
+---
+
+###### 🚩 Modality
+
+- (SIGIR 2023) **Towards Multi-Interest Pre-training with Sparse Capsule Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591778)
+- (MM 2023) **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611967)
+- (ACL 2024)  **HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.luhme-long.138/)
+- (TOIS 2025) **HORAE: Temporal Multi-Interest Pre-training for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3727645)
+
+---
+
+###### 🚩 Domain
+
+- (CIKM 2022) **Adaptive Domain Interest Network for Multi-domain Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557137)
+- (SIGIR 2023) **M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591720)
+- (WWW 2023) **Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583366)
+- (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181)
+- (SIGIR 2023) **Towards Multi-Interest Pre-training with Sparse Capsule Network** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591778)
+- (TOIS 2025) **HORAE: Temporal Multi-Interest Pre-training for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3727645)
+
+---
+
+###### 🚩 Attributes
+
+- (CIKM 2021) **Popularity-Enhanced News Recommendation with Multi-View Interest Representation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482462)
+- (AAAI 2024) **FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28794)
+- (EMNLP 2024) **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.emnlp-main.86/)
+
+---
+
+##### User Oriented
+###### 🚩 Spatial
+
+- (AAAI 2022) **SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20824)
+
+---
+
+###### 🚩 Temporal
+
+- (MM 2020) **What Aspect Do You Like: Multi-scale Time-aware User Interest Modeling for Micro-video Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413653)
+- (AAAI 2022) **SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20824)
+- (TKDE 2023)  **Leveraging Long Short-Term User Preference in Conversational Recommendation via Multi-agent Reinforcement Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9964317)
+
+---
+
+###### 🚩 Behavior
+
+- (TOIS 2023) **Coarse-to-Fine Knowledge-Enhanced Multi-Interest Learning Framework for Multi-Behavior Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3606369)
+- (ICDE 2024) **When Multi-Behavior Meets Multi-Interest: Multi-Behavior Sequential Recommendation with Multi-Interest Self-Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10597701)
+
+---
+
+###### 🚩 Social Group
+
+- (MM 2020) **What Aspect Do You Like: Multi-scale Time-aware User Interest Modeling for Micro-video Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413653)
+- (AAAI 2022) **SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20824)
+
+---
+
 
 <details>
 <summary>⏳Research Papers Sorted by Published Year</summary>
@@ -96,6 +169,7 @@
 - (ICME 2024) **Orthogonal Hyper-category Guided Multi-interest Elicitation for Micro-video Matching** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10687880/)
 - (NeurIPS 2024) **Density-based User Representation using Gaussian Process Regression for Multi-interest Personalized Retrieval** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5e28c085a8cd881a4c7e5cf13391aac5-Abstract-Conference.html)
 - (AAAI 2024) **Multi-Domain Recommendation to Attract Users via Domain Preference Modeling** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28702)
+- (AAAI 2024) **FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28794)
 - (ACL 2024)  **HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation** [[Paper]](https://aclanthology.org/2024.luhme-long.138/)
 
 ---
@@ -110,6 +184,7 @@
 - (WWW 2023) **Dual-interest Factorization-heads Atention for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583278)
 - (AAAI 2023) **REMIT: Reinforced Multi-Interest Transfer for Cross-Domain Recommendation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26181)
 - (TKDD 2023) **Modeling Cross-session Information with Multi-interest Graph Neural Networks for the Next-item Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3532192)
+- (TKDE 2023)  **Leveraging Long Short-Term User Preference in Conversational Recommendation via Multi-agent Reinforcement Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9964317)
 - (RecSys 2023) **Co-occurrence Embedding Enhancement for Long-tail Problem in Multi-Interest Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608835)
 - (RecSys 2023) **Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604915.3608766) 
 - (KDD 2023) **M5: Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599863)
@@ -159,8 +234,9 @@
 
 - (KDD 2020) **Controllable Multi-Interest Framework for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403344)
 - (CIKM 2020) **Deep Multi-Interest Network for Click-through Rate Prediction** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3412092)
+- (SIGIR 2020) **MRIF: Multi-resolution Interest Fusion for Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401240)
+- (MM 2020) **What Aspect Do You Like: Multi-scale Time-aware User Interest Modeling for Micro-video Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413653)
 - (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
-- 
 
 </details>
 
