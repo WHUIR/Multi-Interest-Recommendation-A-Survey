@@ -30,6 +30,8 @@
 >
 > 🌟 **Star Us!** If you find our work helpful, please consider starring our GitHub to stay updated with the latest in multi-interest recommendation!🌟
 
+---
+
 ## 🔗 Introduction
 
 <div align="center">
@@ -43,6 +45,8 @@
 </div>
 
 📚 Based on the survey paper "[Multi-Interest Recommendation: A Survey]()", this repository contains a curated list of papers on **multi-interest recommendation** published in top venues. We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
+
+---
 
 ## 🗂️ Classification of Multi-Interest Recommendation
 
