@@ -19,6 +19,20 @@
 - [Multi-Interest-Recommendation](#multi-interest-recommendation-a-survey)
   - [Representative Works](#representative-works)
   - [Taxonomy](#taxonomy)
+    - [Aspects of Multi-Interest Modeling](#aspects-of-multi-interest-modeling--back-to-top)
+      - [Implicit Modeling](#implicit-modeling)
+      - [Explicit Modeling](#explicit-modeling)
+        - [Item Oriented](#item-oriented)
+          - [Review](#review)
+          - [Category](#category)
+          - [Modality](#modality)
+          - [Domain](#domain)
+          - [Others](#others) 
+        - [User Oriented](#user-oriented)
+          - [Spatial](#spatial)
+          - [Temporal](#temporal)
+          - [Behavior](#behavior)
+          - [Social Group](#social-group)
   - [Research Papers Sorted by Published Year](#research-papers-sorted-by-published-year)
     - [Year 2025](#year-2025-back-to-top)
     - [Year 2024](#year-2024-back-to-top)
@@ -42,10 +56,13 @@
 - (MGNM 2022) **When Multi-Level Meets Multi-Interest: A Multi-Grained Neural Model for Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532081) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=15387517680006520990&as_sdt=2005&sciodt=0,5&hl=en-EN)
 - (IESRec 2023) **Joint Internal Multi-Interest Exploration and External Domain Alignment for Cross Domain Sequential Recommendation** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583366) [![Citation Badge](https://img.shields.io/badge/Cited_by-50+-blue)](https://scholar.google.com/scholar?cites=631703805197471410&as_sdt=2005&sciodt=0,5&hl=en-EN)
 
-
+---
 
 ## Taxonomy
 
+### Aspects of Multi-Interest Modeling [[Back to Top](#multi-interest-recommendation-a-survey)]
+
+#### Implicit Modeling
 
 
 
