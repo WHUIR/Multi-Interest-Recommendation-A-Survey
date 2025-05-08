@@ -57,18 +57,18 @@
 - [Multi-Interest-Recommendation](#multi-interest-recommendation-a-survey)
   - [Representative Works](#-representative-works)
   - [Taxonomy](#-taxonomy)
-    - [Tasks](#-tasks)
+    - [Tasks](#tasks-back-to-top)
       - [Sequential Recommendation](#-sequential-recommendation)
       - [Click Through-Rate Prediction](#-click-through-rate-prediction)
       - [Session-Based Recommendation](#-session-based-recommendation)
       - [Conversation Recommendation](#-conversation-recommendation)
       - [Cross-Domain Recommendation](#-cross-domain-recommendation)
-    - [Methodology (Multi-Interest Extractor + Aggregartor)](#-methodology--multi-interest-extractor--aggregrator--back-to-top)
+    - [Methodology: Multi-Interest Extractor + Aggregator](#methodology-multi-interest-extractor--aggregator-back-to-top)
       - [Dynamic Routing + Representation Aggregation](#-dynamic-routing--representation-aggregation)
       - [Dynamic Routing + Recommendation Aggregation](#-dynamic-routing--recommendation-aggregation)
       - [Soft Attention + Representation Aggregation](#-soft-attention--representation-aggregation)
       - [Soft Attention + Recommendation Aggregation](#-soft-attention--recommendation-aggregation)
-    - [Aspects of Multi-Interest Modeling](#aspects-of-multi-interest-modeling--back-to-top)
+    - [Aspects of Multi-Interest Modeling](#aspects-of-multi-interest-modeling-back-to-top)
       - [Implicit Modeling](#-implicit-modeling)
       - [Explicit Modeling](#explicit-modeling)
         - [Item Oriented](#item-oriented)
@@ -172,7 +172,7 @@
 
 ---
 
-### Methodology (Multi-Interest Extractor + Aggregartor) [[Back to Top](#multi-interest-recommendation-a-survey)]
+### Methodology: Multi-Interest Extractor + Aggregator [[Back to Top](#multi-interest-recommendation-a-survey)]
 #### 🚩 Dynamic Routing + Representation Aggregation
 
 - (CIKM 2019) **Multi-interest network with dynamic routing for recommendation at Tmall** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3357384.3357814)
