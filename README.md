@@ -19,7 +19,7 @@
 - [Multi-Interest-Recommendation](#multi-interest-recommendation-a-survey)
   - [Taxonomy](#taxonomy)
   - [Citation](#citation)
-  - [Research Papers Sorted by Published Time](#research-papers-sorted-by-published-time)
+  - [Research Papers Sorted by Published Year](#research-papers-sorted-by-published-year)
     - [Year 2025](#year-2025-back-to-top)
     - [Year 2024](#year-2024-back-to-top)
     - [Year 2023](#year-2023-back-to-top)
@@ -31,7 +31,7 @@
 
 
 <details>
-<summary>⏳Research Papers Sorted by Published Time</summary>
+<summary>⏳Research Papers Sorted by Published Year</summary>
 
 ## Research Papers Sorted by Published Year
 
