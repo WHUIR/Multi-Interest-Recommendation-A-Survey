@@ -2,7 +2,7 @@
 
 <p align="center">
     <!-- arxiv badges -->
-    <a href="">
+    <a href="https://arxiv.org/abs/2506.15284">
         <img src="https://img.shields.io/badge/Paper-red?style=flat&logo=arxiv">
     </a>
     <!-- Github -->
@@ -44,7 +44,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/WHUIR/Multi-Interest-Recommendation-A-Survey"/></a>
 </div>
 
-📚 Based on the survey paper "[Multi-Interest Recommendation: A Survey]()", this repository contains a curated list of papers on **multi-interest recommendation** published in top venues. We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
+📚 Based on the survey paper "[Multi-Interest Recommendation: A Survey](https://arxiv.org/abs/2506.15284)", this repository contains a curated list of papers on **multi-interest recommendation** published in top venues. We hope to provide a more comprehensive literature base for the multi-interest recommendation research and the industrial community.
 
 ---
 
@@ -396,5 +396,10 @@
 
 ## Citation
 ```
-
+@article{li2025multi,
+  title={Multi-Interest Recommendation: A Survey},
+  author={Li, Zihao and Chen, Qiang and Zou, Lixin and Sun, Aixin and Li, Chenliang},
+  journal={arXiv preprint arXiv:2506.15284},
+  year={2025}
+}
 ```
